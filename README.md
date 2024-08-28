@@ -2,9 +2,12 @@
 ✅ CONTACT THE OWNER ON WHATSAPP 
 <a href="https://wa.me/254114141192"><img src="https://img.shields.io/badge/Contact Beltah Tech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   
-✅ FOLLOW OUR OFFICIAL WHATSAPP CHANNEL 
+✅ FOLLOW OUR OFFICIAL WHATSAPP CHANNEL
+
 <a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 ✅ SUBSCRIBE ON MY YOUTUBE CHANNEL 
+
 <a href="https://www.youtube.com/@Beltahtech2024"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@Beltahtech2024" /><br>
 <p align="center">
 
