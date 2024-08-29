@@ -1,4 +1,6 @@
-<p align="center">
+## REPOSITORY IS ON MAINTENANCE ⛑ IT WILL BE RELEASED SOON .THANKS FOR TRUSTING SCENE-MD 
+
+
 ✅ CONTACT THE OWNER ON WHATSAPP 
 <a 
 href="https://wa.me/254114141192"><img src="https://img.shields.io/badge/Contact Beltah Tech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
