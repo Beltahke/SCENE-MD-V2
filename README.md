@@ -7,7 +7,11 @@ href="https://wa.me/254114141192"><img src="https://img.shields.io/badge/Contact
   
 ✅ FOLLOW OUR OFFICIAL WHATSAPP CHANNEL
 
-<a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F"><img src="https://img.shields.io/badge/Follow Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+✅JOIN OUR PUBLIC CHAT GROUP 
+
+<a href="https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI"><img src="https://img.shields.io/badge/Join Our Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ✅ SUBSCRIBE ON MY YOUTUBE CHANNEL 
 
